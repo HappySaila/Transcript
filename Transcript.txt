@@ -1,7 +1,9 @@
+	
+Academic Record
 Name      :  Wilson,Grant Haldane
 Campus ID :  WLSGRA012
 Birthdate :  1996-08-16
-Print Date   :  2016-09-11
+Print Date   :  2017-08-02
 Requested By :  Grant Wilson
               - - - - -   Beginning of Undergraduate Record   - - - - -
                                         2015
@@ -24,12 +26,21 @@ AST      1000F      Introduction to Astronomy       18.00     18.00 65  2-
 CSC      2001F      Computer Science 2001           24.00     24.00 71  2+
 INF      2006F      Business Intelligence Analysis   6.00      6.00 64  2-
 INF      2009F      Systems Analysis                18.00     18.00 68  2-
-CSC      2002S      Computer Science 2002           24.00
-CSC      2003S      Computer Games & Simulation     24.00
-INF      2011S      Systems Design & Development    18.00
+CSC      2002S      Computer Science 2002           24.00     24.00 71  2+
+CSC      2003S      Computer Games & Simulation     24.00     24.00 63  2-
+INF      2011S      Systems Design & Development    18.00      0.00 AB  AB
+                    Academically eligible to continue
                                      2016 Winter
 Programme: Bachelor of Science SB001
 Plan     : Computer Science Major
 Plan     : Computer Games Development Major
 STA      1000L      Introductory Statistics         18.00     18.00 74  2+
-
+                                        2017
+Programme: Bachelor of Science SB001
+Plan     : Computer Science Major
+Plan     : Computer Games Development Major
+CSC      3020H      3-D & Distributed Games Design  36.00	still in progress
+CSC      3022H      C++ With Applications           36.00	still in progress
+CSC      3002F      Computer Science 3002           36.00     36.00 68  2-
+STA      2020F      Applied Statistics              24.00     24.00 67  2-
+CSC      3003S      Computer Science 3003           36.00	still in progress
